@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Removed unused variable declarations
 - Bumped patch version
+
+## 2026-03-23
+- Improved log message formatting
+- Investigated performance bottleneck, noted findings
+- Fixed off-by-one error in loop
